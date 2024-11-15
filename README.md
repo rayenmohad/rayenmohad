@@ -1,4 +1,4 @@
-👋 **Hello, World!** I'm Rayen!
+👋 **Hello,** I'm Rayen!
 
 👀 I’m interested in:  
 
