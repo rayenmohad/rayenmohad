@@ -76,3 +76,11 @@
 </p>
 
 <p align="center">🚀 "Let’s build the future, one line of code at a time!" 🚀</p>
+
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
