@@ -10,7 +10,6 @@
 
 ### 🚀 **What I'm Working On**
 - **Angular Framework**: Developing dynamic web apps.  
-- **AI-Powered Projects**: Including an automated pharmacy system using AI.  
 - **CV Generator**: A project utilizing Angular to simplify job applications.
 
 ---
