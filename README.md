@@ -13,8 +13,7 @@
 ---
 
 ### 🚀 **What I'm Working On**
-- **Angular Framework**: Developing dynamic web apps.  
-- **CV Generator**: A project utilizing Angular to simplify job applications.
+- **Nexium**: a platform that will serve as a company management system.  
 
 ---
 
