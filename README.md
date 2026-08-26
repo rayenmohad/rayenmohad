@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?color=0C93D6&center=true&vCenter=true&width=500&lines=Hello+%F0%9F%91%8B,+I'm+Mohamed+Rayen+Gharbi!;+Tech+Enthusiast+%7C+Aspiring+Software+Engineer;Welcome+to+my+GitHub+Universe!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0C93D6&center=true&vCenter=true&width=500&lines=Hello+%F0%9F%91%8B,+I'm+Mohamed+Rayen+Gharbi!;+Tech+Enthusiast+%7C+Software+Engineer;Welcome+to+my+GitHub+Universe!" alt="Typing SVG">
 </p>
 
 <h1 align="center">🌟 About Me 🌟</h1>
