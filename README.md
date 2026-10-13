@@ -13,15 +13,16 @@
 ---
 
 ### 🚀 **What I'm Working On**
-- **Nexium**: a platform that will serve as a company management system.  
+- **iagenify**: an AI platform that will serve as a whole developers eco-system.  
+- **TechReach Tunisia**: a platform I'm currently working on 🇹🇳.  
 
 ---
 
 ### 🧠 **What I'm Learning**
-- 🌐 **Angular**: Crafting seamless web interfaces.  
+- 🤖 **AI agents**: Building intelligent, autonomous systems.  
 - 💻 **Java & C# with .NET Framework**: Building robust applications.  
-- 🖥️ **PHP, HTML, CSS, JavaScript, TypeScript**: Mastering web technologies.  
-- 🤖 **Artificial Intelligence**: Turning machines into thinkers!  
+- 🌐 **Angular, PHP, HTML, CSS, JavaScript, TypeScript**: Crafting seamless web interfaces and mastering web technologies.  
+- 🧬 **Artificial Intelligence**: Turning machines into thinkers!  
 
 ---
 
@@ -76,5 +77,3 @@
 </p>
 
 <p align="center">🚀 "Let’s build the future, one line of code at a time!" 🚀</p>
-
-
