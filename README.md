@@ -8,7 +8,7 @@
   <img src="3d-business-man-wearing-vr-glasses-at-his-desk.png" alt="VR Businessman" width="300">
 </p>
 
-<p align="center">👋 Hi! I'm Mohamed Rayen Gharbi, a passionate second-year computer science student specializing in computer systems development. My journey revolves around exploring cutting-edge technologies and building solutions that make a difference.</p>
+<p align="center">👋 Hi! I'm Mohamed Rayen Gharbi, a passionate software engineer specializing in computer systems development. My journey revolves around exploring cutting-edge technologies and building solutions that make a difference.</p>
 
 ---
 
